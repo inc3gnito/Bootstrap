@@ -5,7 +5,7 @@ h1 {text-align: center;}
 .header { 
     height:140px;
     margin: bottom 15px;
-    background-color:#b4b3b3;
+    background-color: #b4b3b3;
 }
 .main {
     width:980px;
@@ -23,5 +23,5 @@ h1 {text-align: center;}
     background-color:#b4b3b3;
     text-align: center;
 }
-
+.logo {text-align: center;}
 
