@@ -1,8 +1,9 @@
 /* Navbar container */
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: #7a7676;
   font-family: Arial;
+  border-radius: 20px;
 }
 
 /* Links inside the navbar */
